@@ -1,4 +1,4 @@
-Hi 👋 My name is Nani Chkhenkeli
+Hi 👋 I'm Nani Chkhenkeli
 ================================
 
 software Engineer
