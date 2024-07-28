@@ -4,7 +4,7 @@ Hi 👋 My name is Nani Chkhenkeli
 software Engineer
 -----------------
 
-I've been learning to code for 3 years, pursuing a bachelor's degree in computer science.
+I've been learning to code for 2 years, pursuing a bachelor's degree in computer science.
 
 *   🌍  I'm based in Georgia
 *   ✉️  You can contact me at [chkhenkelinani@gmail.com](mailto:chkhenkelinani@gmail.com)
