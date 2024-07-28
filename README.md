@@ -1,8 +1,6 @@
 Hi 👋 I'm Nani Chkhenkeli
 ================================
 
-software Engineer
------------------
 
 I've been learning to code for 2 years, pursuing a bachelor's degree in computer science.
 
