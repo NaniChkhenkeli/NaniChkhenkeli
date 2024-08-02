@@ -60,12 +60,6 @@ I've been learning to code for 2 years, pursuing a bachelor's degree in computer
       </a></p>
 
 
-      <p align="left">
-      <a href="http://www.github.com/NaniChkhenkeli">
-        <img src="https://github-readme-stats.vercel.app/api?        username=NaniChkhenkeli&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NaniChkhenkeli's GitHub stats"     />
-        </a>
-        </p>
-
 <p align="left">
   <a href="http://www.github.com/NaniChkhenkeli">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaniChkhenkeli&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
