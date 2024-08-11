@@ -48,11 +48,8 @@ I've been learning to code for 2 years, pursuing a bachelor's degree in computer
 </p>
 
 ### Top Languages
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/NaniChkhenkeli">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaniChkhenkeli&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" style="border-radius: 50%; width: 300px; height: 300px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaniChkhenkeli&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" style="border-radius: 50%; width: 400px; height: 400px;" />
   </a>
 </p>
-
-
