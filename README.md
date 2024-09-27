@@ -9,16 +9,16 @@
     <a target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" />
     </a> 
-    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
     </a> 
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <a  href="#"  target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
     </a> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <a  href="#"  target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" />
     </a> 
-    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <a  href="#"  target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
     </a>
   </p>
@@ -26,10 +26,10 @@
   <!-- Web Development -->
   <h3>Web Development</h3>
   <p align="center">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <a  href="#"  target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
     </a> 
-    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <a  href="#"  target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
     </a> 
     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
