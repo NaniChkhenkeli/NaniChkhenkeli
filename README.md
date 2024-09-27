@@ -11,33 +11,40 @@ Tools and Platforms
 Other Skills
 <p align="left"> <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a> <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a> </p>
 
-### Socials         
-  <p align="left">
-        <a href="https://discord.com/users/chxhk" target="_blank" rel="noreferrer">
-      <picture>
+### Connect with Me
+<p align="left">
+  <!-- Discord -->
+  <a href="https://discord.com/users/chxhk" target="_blank" rel="noreferrer" title="Discord">
+    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-      </picture>
-      </a>
-        <a href="https://www.github.com/NaniChkhenkeli" target="_blank" rel="noreferrer">
-      <picture>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+    </picture>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://www.github.com/NaniChkhenkeli" target="_blank" rel="noreferrer" title="GitHub">
+    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-      </picture>
-      </a>
-        <a href="https://www.linkedin.com/in/nanichkhenkeli" target="_blank" rel="noreferrer">
-      <picture>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+    </picture>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/nanichkhenkeli" target="_blank" rel="noreferrer" title="LinkedIn">
+    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-      </picture>
-      </a>
-  
-  </p>
-<p align="left">
-  <a href="https://github.com/NaniChkhenkeli">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaniChkhenkeli&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" style="border-radius: 50%; width: 400px; height: 400px;" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+    </picture>
   </a>
 </p>
+
+<!-- GitHub Stats -->
+<p align="left">
+  <a href="https://github.com/NaniChkhenkeli">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaniChkhenkeli&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" style="border-radius: 50%; width: 400px; height: 400px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
+  </a>
+</p>
+
