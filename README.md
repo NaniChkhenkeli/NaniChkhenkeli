@@ -1,8 +1,75 @@
 
-### Skills 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-</p>
+### Skills
+
+#### Programming Languages
+- **Java**: [Learn More](https://www.oracle.com/java/)
+  <br> A versatile programming language used for building a range of applications.
+  
+- **Go**: [Learn More](https://go.dev/doc/)
+  <br> A statically typed language designed for simplicity and efficiency.
+  
+- **Python**: [Learn More](https://www.python.org/)
+  <br> A widely-used language known for its readability and broad applications.
+
+#### Web Development
+- **React**: [Learn More](https://reactjs.org/)
+  <br> A JavaScript library for building user interfaces.
+  
+- **Node.js**: [Learn More](https://nodejs.org/en/)
+  <br> A runtime environment for executing JavaScript on the server side.
+  
+- **Redux**: [Learn More](https://redux.js.org/)
+  <br> A predictable state container for JavaScript applications.
+  
+- **CSS3**: [Learn More](https://www.w3.org/TR/CSS/#css)
+  <br> The latest version of Cascading Style Sheets for styling web pages.
+  
+- **Vite**: [Learn More](https://vitejs.dev/)
+  <br> A build tool for modern web projects, offering a fast development experience.
+
+#### Databases
+- **MySQL**: [Learn More](https://www.mysql.com/)
+  <br> An open-source relational database management system.
+  
+- **PostgreSQL**: [Learn More](https://www.postgresql.org/)
+  <br> A powerful, open-source object-relational database system.
+  
+- **MongoDB**: [Learn More](https://www.mongodb.com/)
+  <br> A NoSQL database for modern applications.
+
+#### Cloud and DevOps
+- **Google Cloud**: [Learn More](https://cloud.google.com/)
+  <br> A suite of cloud computing services that runs on the same infrastructure as Google’s own internal end-user products.
+  
+- **Firebase**: [Learn More](https://firebase.google.com/)
+  <br> A platform developed by Google for creating mobile and web applications.
+
+#### Frameworks
+- **Django**: [Learn More](https://www.djangoproject.com/)
+  <br> A high-level Python web framework that encourages rapid development.
+  
+- **Flask**: [Learn More](https://flask.palletsprojects.com/en/2.0.x/)
+  <br> A lightweight WSGI web application framework in Python.
+
+- **.NET**: [Learn More](https://dotnet.microsoft.com/en-us/)
+  <br> A developer platform for building various types of applications.
+
+#### Other Technologies
+- **Git**: [Learn More](https://git-scm.com/)
+  <br> A version control system for tracking changes in computer files.
+  
+- **Arduino**: [Learn More](https://store.arduino.cc/)
+  <br> An open-source electronics platform based on easy-to-use hardware and software.
+  
+- **Blender**: [Learn More](https://www.blender.org/)
+  <br> A free and open-source 3D creation suite.
+  
+- **Linux**: [Learn More](https://www.linux.org)
+  <br> A family of open-source Unix-like operating systems based on the Linux kernel.
+  
+- **Raspberry Pi**: [Learn More](https://www.raspberrypi.org/)
+  <br> A series of small single-board computers designed to promote teaching of basic computer science.
+
 
 <p/>
                     
